@@ -1,0 +1,11 @@
+hyper_search/*
+gnn_snr/__pycache__/*
+*/*stored_models*/*
+*/*debug*/*
+*/*.idea*/*
+*/*datasets*/*
+.idea/*
+.idea/workspace.xml
+*.pyc
+*.nbi
+*.nbc
